@@ -1,0 +1,21 @@
+{
+	"name": "tasktracker-ts",
+	"version": "1.0.0",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"build": "npx tsc"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"description": "",
+	"devDependencies": {
+		"@types/node": "^22.10.4",
+		"typescript": "^5.7.2"
+	},
+	"dependencies": {
+		"commander": "^13.0.0",
+		"figlet": "^1.8.0"
+	}
+}
