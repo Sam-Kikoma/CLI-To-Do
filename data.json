@@ -1,0 +1,12 @@
+[
+  {
+    "taskName": "To-do json",
+    "dueDate": "05/01/2025",
+    "taskDone": false
+  },
+  {
+    "taskName": "Another to-do",
+    "dueDate": "06/01/2025",
+    "taskDone": false
+  }
+]
