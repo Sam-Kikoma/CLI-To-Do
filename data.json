@@ -7,6 +7,6 @@
 	{
 		"taskName": "Another tod0",
 		"dueDate": "01/03/2001",
-		"taskDone": false
+		"taskDone": true
 	}
 ]
